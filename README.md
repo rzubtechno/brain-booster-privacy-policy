@@ -53,6 +53,10 @@ The application is designed to provide a clean, distraction-free educational exp
 
 Brain Booster Math Game is intended for educational purposes and is suitable for children. Because the application does not collect or transmit any personal information, no user data is gathered from children or adults.
 
+## No Account Required
+
+Brain Booster does not require account registration or login.
+
 ## Data Security
 
 Since Brain Booster Math Game does not collect or transmit user information, your data remains on your device and under your control.
