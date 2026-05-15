@@ -1,6 +1,6 @@
 # Privacy Policy for Brain Booster Math Game
 
-Last updated: 2026
+Last Updated: May 2026
 
 ## Introduction
 
